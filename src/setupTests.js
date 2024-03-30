@@ -1,5 +1,5 @@
 
 import '@testing-library/jest-dom';
 
-console.log("sfo")
+console.log("nyc")
 
