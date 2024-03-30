@@ -1,5 +1,5 @@
 
 import '@testing-library/jest-dom';
 
-console.log("I love rrh")
+console.log("turkish")
 
